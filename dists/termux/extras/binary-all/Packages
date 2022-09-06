@@ -31,23 +31,6 @@ Homepage: https://github.com/xireiki
 Description: Music unlock CLI program.
 
 Package: mytool
-Architecture: aarch64
-Version: 1.0.0
-Priority: optional
-Section: utils
-Maintainer: xireiki<xireiki@outlook.com>
-Installed-Size: 5264
-Provides: xireiki
-Filename: ./dists/termux/extras/binary-all/mytool_1.0.0_aarch64.deb
-Size: 4809160
-MD5sum: b27de82ba650a3a163f9549cdc92d963
-SHA1: c8f6f8633f7265190f54a4743e91173a52bad1e5
-SHA256: 06dcf36639c4b9af2f40d5938ab83912b36ee16dc30f81435999348190f913b9
-SHA512: bdd4bf95d0ad0a7828866d43b9f7af16a579d4e9ce99a2ba0f4f604101ff402c2e5de7c7e73cbe795c83909c36772664126e1bfec435e9f665c91f5e6663a38d
-Homepage: https://github.com/xireiki
-Description: Some of my gadgets.
-
-Package: mytool
 Architecture: all
 Version: 1.0.0
 Priority: optional
@@ -130,4 +113,21 @@ SHA256: a3f7edd19e074f521b0db3380d041a12bbbc8a9bfdac2dde261c30a7407f69b8
 SHA512: 4c1b849412a65f41562ccebbba699cf6a4778e9750d4a126ac4f8c3133614dacd39a781a94439badf467362a2115b9ccb1cdb5fd282014acacfb583c9a9b4ae9
 Homepage: https://github.com/xireiki
 Description: A multi-container script modeled after ZeroTermux. (模仿 ZeroTermux 制作的多容器脚本。)
+
+Package: x-tool
+Architecture: aarch64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 5264
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/x-tool_1.0.0_aarch64.deb
+Size: 4809160
+MD5sum: 5ad52204ed9900b71348bed83158c88c
+SHA1: bcbebfaee573c85a8fc50d56d84e215e7ee5fe8e
+SHA256: 1b0f2e68b0032782bf73255dc9c6877b84e7c0a987a7997ed01b8bd9a8eb5c79
+SHA512: 1e64dc0a9f80e3510205b55f68883a2717fdb37743d12e6c3e20fb11e080aa655c4d1c6166ed113cd38f57f4ece32ecf6e0a6bcc15fc52b7c03fc5b100b3b0d6
+Homepage: https://github.com/xireiki
+Description: Some of my gadgets.
 
