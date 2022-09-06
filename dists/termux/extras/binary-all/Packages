@@ -106,13 +106,13 @@ Installed-Size: 8
 Provides: xireiki
 Depends: python
 Filename: ./dists/termux/extras/binary-all/tidyfile_1.0.0_all.deb
-Size: 2424
-MD5sum: 0dbcb85369f0306699916c267ab7abc8
-SHA1: 774ae0e2662dad4982f5edec90d6b168e71d6818
-SHA256: a3f7edd19e074f521b0db3380d041a12bbbc8a9bfdac2dde261c30a7407f69b8
-SHA512: 4c1b849412a65f41562ccebbba699cf6a4778e9750d4a126ac4f8c3133614dacd39a781a94439badf467362a2115b9ccb1cdb5fd282014acacfb583c9a9b4ae9
+Size: 2420
+MD5sum: aa5d37630ef19d6ab2748f8724ac6f29
+SHA1: 3285e110917839f70eed3f644a8e4f23577e966c
+SHA256: 352e2b133daaf4d3b8c6480334e71284037ff006e9009029622565b5d951a10a
+SHA512: b01ee1834e97f69c0d3abe0f2e50ccc0394eb960e4d5be074153ef5b4e741a315453393431f7d37c411b9b0c55d6daf602a8b0843874e375b6744f2671af8312
 Homepage: https://github.com/xireiki
-Description: A multi-container script modeled after ZeroTermux. (模仿 ZeroTermux 制作的多容器脚本。)
+Description: A Python script for organizing folders. (一个用于整理文件夹的 Python 脚本。)
 
 Package: x-tool
 Architecture: aarch64
