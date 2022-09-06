@@ -1,0 +1,9 @@
+#!/bin/env bash
+if [ -n "$(command -v apt-ftparchive)" ];then
+  apt-ftparchive packages . > ./dists/termux/extras/binary-all/Packages
+  apt-ftparchive contents . > ./dists/termux/extras/Contents-all
+  cd ./dists/termux && apt-ftparchive release . | xargs -0 -I {} echo -e "Codename: termux\nVersion: 1\nArchitectures: all\nDescription: termux repository\nSuite: termux\n{}" > ./Release
+else
+  echo "Please install apt-ftparchive with "apt install apt -ftparchive" to use this script normally."
+  exit 1
+fi

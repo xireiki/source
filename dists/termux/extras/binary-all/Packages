@@ -1,0 +1,133 @@
+Package: mkfsntfs
+Architecture: aarch64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/mkfsntfs_1.0.0_aarch64.deb
+Size: 24848
+MD5sum: 17b2d231d6c8ef59a4a9ad8aa0b4010c
+SHA1: 848df076049e27727015611846b2b1378ea738a1
+SHA256: c62826f341a026473c0cb740877d34708804e757ddafd2c88df3c812e07c54bd
+SHA512: cc013fcb32db50538a6969176419c79e2f5d8ed5c7aba988268857bf05f822f38b84f6c8b4f5956525e7ac98cf2e20a07e3d867010cb9ef8305602fdcbbb8849
+Description: Formatting devices in Termux for NTFS file system.
+
+Package: music-unlock
+Architecture: aarch64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 10580
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/music-unlock_1.0.0_aarch64.deb
+Size: 4709800
+MD5sum: 18a3a64b84bdb03111d52016c44e80c6
+SHA1: bb684edcf27d4b53b2bae799a64f6c604b6d4a21
+SHA256: 37a0972b500b9132943045667130dc1c5cd034c05059d7cb590dbbc9051965b5
+SHA512: 1e3bdb4fb0b9506d3a0ab2515f7b40b33fd4e2792cb163978c1eec5d68dbb6dbb52c1e8638b8bb97ac530cb664f28d55fdefceefd922abe728d289353904abba
+Homepage: https://github.com/xireiki
+Description: Music unlock CLI program.
+
+Package: mytool
+Architecture: aarch64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 5264
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/mytool_1.0.0_aarch64.deb
+Size: 4809160
+MD5sum: b27de82ba650a3a163f9549cdc92d963
+SHA1: c8f6f8633f7265190f54a4743e91173a52bad1e5
+SHA256: 06dcf36639c4b9af2f40d5938ab83912b36ee16dc30f81435999348190f913b9
+SHA512: bdd4bf95d0ad0a7828866d43b9f7af16a579d4e9ce99a2ba0f4f604101ff402c2e5de7c7e73cbe795c83909c36772664126e1bfec435e9f665c91f5e6663a38d
+Homepage: https://github.com/xireiki
+Description: Some of my gadgets.
+
+Package: mytool
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 5264
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/mytool_1.0.0_all.deb
+Size: 4809156
+MD5sum: 3fe35d72e31767bc7a73326585fa8c50
+SHA1: 7607db06ef0b236bfa647aa6f65fd5c19d80ce74
+SHA256: eb52c6db797f8ea0207949e7034dd4b76419c3a627b490f566c5774d4b96f37b
+SHA512: aac642f097e7fa82d419cf281a25723c11e018944bb85997f21d9e2fccf9627ed5542744ff23a073cc90805328c0c6035f699ea82b94e76c239109de7c9f8cb3
+Homepage: https://github.com/xireiki
+Description: Some of my gadgets.
+
+Package: rish-sui
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 141
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/rish-sui_1.0.0_all.deb
+Size: 51284
+MD5sum: 7aa4d8a3062868ac17ad613c5488d331
+SHA1: 64b169694b783413cace0028af88deeb592fc944
+SHA256: b6afde6fb8671cc9c8b08e1ee43209ffd24eb1f1a1741550a5758325fdd048c0
+SHA512: f2f0fe866df3bc9a7b0fa4a3d317900b4b68816da680cb7c7fc5ea2885c82f73875e30095db6ffae25d7237cce173c647e461c2229a017ed1de11b031fb8896e
+Homepage: https://github.com/xireiki
+Description: Sui's terminal (Shizuku).
+
+Package: rish
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 84
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/rish_1.0.0_all.deb
+Size: 27596
+MD5sum: 58a87cb17b6396be4c9b1d266eb593d3
+SHA1: d9aa3e30c6868085923dcc2c77347ee2bd2e6b0f
+SHA256: e82386f990802d427fb549de8c58f0e528733325a9f659835fc72ba91c9a471f
+SHA512: 72c98617152df9459ee9fb44df0ec8b34d237c6b9189949566417060b4eda4ce3d6fbf2a6292b0e1b2660221e248b7d84b897d4f5e47ebb7b4f7cc557cef350f
+Homepage: https://github.com/xireiki
+Description: Shizuku's terminal.
+
+Package: termux-switch
+Architecture: all
+Version: 1.0.1
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/termux-switch_1.0.1_all.deb
+Size: 2816
+MD5sum: 026dc4679463aa0fd02497a87e82ec66
+SHA1: d258b7c5e954d803a06c818e46f2d1fdcda35d29
+SHA256: f4b6d2bc4b27426731a98295589daa76e74aa94a3a9d60d7d92155f388b379ef
+SHA512: ec13360d264135b0eae16ef0561f97210db82bdb05201d3be5cc8a7b738bc9502c184d540b2672ff9ab7b928b7e185a8eeaa0afd6acdef98c8b78a0cc2b183c1
+Description: A multi-container script modeled after ZeroTermux. (模仿 ZeroTermux 制作的多容器脚本。)
+
+Package: tidyfile
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 8
+Provides: xireiki
+Depends: python
+Filename: ./dists/termux/extras/binary-all/tidyfile_1.0.0_all.deb
+Size: 2424
+MD5sum: 0dbcb85369f0306699916c267ab7abc8
+SHA1: 774ae0e2662dad4982f5edec90d6b168e71d6818
+SHA256: a3f7edd19e074f521b0db3380d041a12bbbc8a9bfdac2dde261c30a7407f69b8
+SHA512: 4c1b849412a65f41562ccebbba699cf6a4778e9750d4a126ac4f8c3133614dacd39a781a94439badf467362a2115b9ccb1cdb5fd282014acacfb583c9a9b4ae9
+Homepage: https://github.com/xireiki
+Description: A multi-container script modeled after ZeroTermux. (模仿 ZeroTermux 制作的多容器脚本。)
+
