@@ -131,3 +131,20 @@ SHA512: 1e64dc0a9f80e3510205b55f68883a2717fdb37743d12e6c3e20fb11e080aa655c4d1c61
 Homepage: https://github.com/xireiki
 Description: Some of my gadgets.
 
+Package: x-tool
+Architecture: aarch64
+Version: 1.0.1
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 8384
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/x-tool_1.0.1_aarch64.deb
+Size: 4809204
+MD5sum: bec10cdccd2a1ba5de5c2527641380d7
+SHA1: b4adc1784fb82cb5ef47d8ba5a3a000a34c15d1e
+SHA256: 6ec6b4b6d5888be5d7abd7fee661a19ba374d07bfc3113ed97ea6d1e3849b312
+SHA512: 73d6b30bdc097efa4ba6466c6e0692aee7841d497b9d6696a9c0a53b20041e6a52339d7415a1e2dcceb3fb392434a6c40020600b7e680dce274efe58986994bb
+Homepage: https://github.com/xireiki
+Description: Some of my gadgets.
+

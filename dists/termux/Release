@@ -3,21 +3,21 @@ Version: 1
 Architectures: all
 Description: termux repository
 Suite: termux
-Date: Tue, 06 Sep 2022 14:45:39 +0000
+Date: Thu, 08 Sep 2022 06:26:10 +0000
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 Release
  b138771841d466568a249ad89982822a             1753 extras/Contents-all
- b60cb6732973fd9c0a3651562361368b             5013 extras/binary-all/Packages
+ 3e08002b81e3f9733b63614c6f769be0             5631 extras/binary-all/Packages
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
  2c256b905c1f41eb456366f16a107ace78b9439a             1753 extras/Contents-all
- 0d0ea73a568b5e6cf33870e36d16c8b4f78513c2             5013 extras/binary-all/Packages
+ bd74aeb14546a112dbda87e0161904af1d4ac402             5631 extras/binary-all/Packages
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
  93ab48fd70eb6d4912c73dd7f6e07bd9f013284e3efcc772b774fe5655eff68c             1753 extras/Contents-all
- 7387eb30a15edc8125fa923ee7739112b74112ef8bbae59535a2eab30c1e4000             5013 extras/binary-all/Packages
+ a5ff5d72318ed6ff529dfd4f5d4699807f5397ec15a7305c68e3494035292818             5631 extras/binary-all/Packages
 SHA512:
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Release
  d6b8169ef274bcbcfb8b021c249816d78ab6df287f772582981462a183f9246bef14d37a98b528a555cbe0131eb06cee538f7a8c629460f54727225448bb9cb9             1753 extras/Contents-all
- c4c44f52defd8883cabd1a816409e0dfcfca53b3138dc6f40c6dc25946b8412cfa00514aa929a65e6a90c4118c991d47a8fb0867a45c2acaec77c23f5b7279cc             5013 extras/binary-all/Packages
+ bda8d27833875fcd26032918737f321b2237a7ba7b8e81a2eb028aba0304003b7eb294640fd34f7be972ced71d2818c5dde2ef8a7256babf10fc744a3da8cc91             5631 extras/binary-all/Packages
 
