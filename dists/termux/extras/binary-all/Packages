@@ -48,19 +48,70 @@ Homepage: https://github.com/xireiki
 Description: Some of my gadgets.
 
 Package: rish-sui
-Architecture: all
+Architecture: aarch64
 Version: 1.0.0
 Priority: optional
 Section: utils
 Maintainer: xireiki<xireiki@outlook.com>
-Installed-Size: 141
+Installed-Size: 188
 Provides: xireiki
-Filename: ./dists/termux/extras/binary-all/rish-sui_1.0.0_all.deb
-Size: 51284
-MD5sum: 7aa4d8a3062868ac17ad613c5488d331
-SHA1: 64b169694b783413cace0028af88deeb592fc944
-SHA256: b6afde6fb8671cc9c8b08e1ee43209ffd24eb1f1a1741550a5758325fdd048c0
-SHA512: f2f0fe866df3bc9a7b0fa4a3d317900b4b68816da680cb7c7fc5ea2885c82f73875e30095db6ffae25d7237cce173c647e461c2229a017ed1de11b031fb8896e
+Filename: ./dists/termux/extras/binary-all/rish-sui_1.0.0_aarch64.deb
+Size: 51288
+MD5sum: 72b12ae0b61d7adbb7ec2fa622f09fa9
+SHA1: 17983800ec1940d388656e2411c7a2babd2aff82
+SHA256: 4f31de00a1f3da580db51e03b5aa8771a637c642b6e40303da541bd06a9616b4
+SHA512: 61c166e3fd72b041c270f19c9aa8cd74f2df207847dabdb0140544d3b1dee6edea0bc63f9a43d67d5790a12140e73afbade552eee48bd4c2fdf1a9b1016c7c62
+Homepage: https://github.com/xireiki
+Description: Sui's terminal (Shizuku).
+
+Package: rish-sui
+Architecture: arm
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 184
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/rish-sui_1.0.0_arm.deb
+Size: 51252
+MD5sum: 9aac5f75bbdf0f3b401ec3a17612ebd3
+SHA1: f554c2e6e224826c490ed85a0a43ebad42f6e601
+SHA256: aaacfc60bbd127943e1fda9565bb2fd061937553b4450242984f94a81aa1c489
+SHA512: 4b73c8598353682491b7d34cf4eca43042078ca86d0bb332dc4c95a2eb9bb05a5df53cb540c327c3f12472b07224b3456a01152a949eb1ade687c8a09002a6f7
+Homepage: https://github.com/xireiki
+Description: Sui's terminal (Shizuku).
+
+Package: rish-sui
+Architecture: i686
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 184
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/rish-sui_1.0.0_i686.deb
+Size: 51856
+MD5sum: 68824b521ae7cefb1781fc829f8c1256
+SHA1: 87f33307658dc33108abad179ed6e1ebab31e570
+SHA256: eedf0c2c46828b7b409ad959179ea3cde02667b4de3c3d6602794cb8c6f6bfc7
+SHA512: 594ef8370d4fe97440d7bb350321dc397015612eac31449c4b27f352eb192f5c59bf280e8f2719572de77becc0ba338d05a343415a1ae9e10e754d98e8fd0334
+Homepage: https://github.com/xireiki
+Description: Sui's terminal (Shizuku).
+
+Package: rish-sui
+Architecture: x86_64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: xireiki<xireiki@outlook.com>
+Installed-Size: 188
+Provides: xireiki
+Filename: ./dists/termux/extras/binary-all/rish-sui_1.0.0_x86_64.deb
+Size: 52080
+MD5sum: 50c23aa1e5eed7e7b96faf4e58482b5e
+SHA1: 6e4fa6f0c42e07793e39f4dea76360b0ef74dc91
+SHA256: 381a6e543906bd1466594ade6b9937c2b47cfa2e130fc4b94f5b173567e7d110
+SHA512: fcbff51a62da3c38fbcc9c2493decf9ebda9286f75ae1d0293d3ec22beadad91cce67598fe11ff897004328bf939a0330756a2b416c9c4a57ec906cf7b0e5261
 Homepage: https://github.com/xireiki
 Description: Sui's terminal (Shizuku).
 
@@ -74,10 +125,10 @@ Installed-Size: 84
 Provides: xireiki
 Filename: ./dists/termux/extras/binary-all/rish_1.0.0_all.deb
 Size: 27596
-MD5sum: 58a87cb17b6396be4c9b1d266eb593d3
-SHA1: d9aa3e30c6868085923dcc2c77347ee2bd2e6b0f
-SHA256: e82386f990802d427fb549de8c58f0e528733325a9f659835fc72ba91c9a471f
-SHA512: 72c98617152df9459ee9fb44df0ec8b34d237c6b9189949566417060b4eda4ce3d6fbf2a6292b0e1b2660221e248b7d84b897d4f5e47ebb7b4f7cc557cef350f
+MD5sum: 1d467d35f67c5ce64b941957ae55272c
+SHA1: 22685dda122b72bacdaf6ba2e39472b83467ad86
+SHA256: d0688a5c9dccd855713ddf23f8c6ec687cc68b38d165d6c3aad876c6d47d92f2
+SHA512: c5e8301ea8e5c58db9ecdcefad719976e01e75dd585791b41d11d2fa88cf2cf1bb10ec23c29c71ccd5d4e95df65347c204b07e16e3e33a3e4a7e1cef0fb51230
 Homepage: https://github.com/xireiki
 Description: Shizuku's terminal.
 
