@@ -140,11 +140,11 @@ Maintainer: xireiki<xireiki@outlook.com>
 Installed-Size: 5264
 Provides: xireiki
 Filename: ./dists/termux/extras/binary-all/x-tool_1.0.1_aarch64.deb
-Size: 4809204
-MD5sum: edc0f55efaba02b9ec59ff5c16b5d9e6
-SHA1: b5ca01126dc337b0143d271be99a9f91e992b900
-SHA256: 97c130d4388ab4ee0e67c28fe2ed00fd84dadd9ebda27d3d18c3ca3011edbcab
-SHA512: 0c3b88705ce4709f4d997e2da839c2db334299870f7124335c33847e5126e8eff25e8216158c55920a73628fc73e9d407867749701badc2c13d025679dc4ef98
+Size: 4809148
+MD5sum: 200b1147457a1b3cb85a060f64ad174c
+SHA1: 9633ae57b29d08730b99cbb56b60b28eb2109644
+SHA256: 11d91bdd5fede8a5ac9f5e534875a038d8655833b129ba46bd4d6c54d66260b2
+SHA512: 7d4ea275e32965aa4a6af85a5b2f5a29458cb15aa1021a9cffc4a6fdcd4559472a3485a5058a7900c46352a2466a7b95a6db23dad9c937de1286d6adbe1f4500
 Homepage: https://github.com/xireiki
 Description: Some of my gadgets.
 
