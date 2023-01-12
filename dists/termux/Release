@@ -3,21 +3,21 @@ Version: 1
 Architectures: all
 Description: termux repository
 Suite: termux
-Date: Thu, 08 Sep 2022 09:24:12 +0000
+Date: Thu, 12 Jan 2023 06:45:41 +0000
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 Release
- b138771841d466568a249ad89982822a             1753 extras/Contents-all
- c864274e43ca1c09fc08dd6bc152c45a             7498 extras/binary-all/Packages
+ 734e9ec6c71a0516f83bed78413f18d3             2694 extras/Contents-all
+ 577ec4a1b5a947bd3905bbc21fb91e7b             8110 extras/binary-all/Packages
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
- 2c256b905c1f41eb456366f16a107ace78b9439a             1753 extras/Contents-all
- 290b2449acfdf04a5c8057062da705ada89e36b7             7498 extras/binary-all/Packages
+ 105d15e6085a3f4a8356315a40271bcae07a12ed             2694 extras/Contents-all
+ 56f7f26b532693497a210aa48fe280b1ed5aa887             8110 extras/binary-all/Packages
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
- 93ab48fd70eb6d4912c73dd7f6e07bd9f013284e3efcc772b774fe5655eff68c             1753 extras/Contents-all
- e1874d528fd9217abeb564fd0960ad238165284b4f8cc43262795b823f6f0f23             7498 extras/binary-all/Packages
+ 80cfd62c4e3b3234f94f08c6dae94f9fe2362da23edb50c433d41de782e98247             2694 extras/Contents-all
+ aee6130c8486f98e69e90da964107f0600cdf2faad96eea8847c9b05c5d7b830             8110 extras/binary-all/Packages
 SHA512:
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Release
- d6b8169ef274bcbcfb8b021c249816d78ab6df287f772582981462a183f9246bef14d37a98b528a555cbe0131eb06cee538f7a8c629460f54727225448bb9cb9             1753 extras/Contents-all
- 60b92fdb8cb227e53aec92acbb85b450987db1285c80c92b9e954e4623d050b842324c5ef1fd4d2a1dd98b3e569080452bd8026ed57bffbf51460f315b375949             7498 extras/binary-all/Packages
+ 2b6e260936daf4408db06f6023667bc9d777e9654bc40c59776602454719182483d6ca88161945b6f8404f1840f20c7b7dee7a5ae29e01470a3064c5fb7b43f7             2694 extras/Contents-all
+ 9590c247b574728452a31472435a2afd5492e89926da2a7dec68e29ff9642ecbb42a3ccc9b0295f350a48f8e506de367b45907ff92c72f30074bce388b33d9d8             8110 extras/binary-all/Packages
 
